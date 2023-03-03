@@ -1,2 +1,1 @@
-# Alx-pre_course
-Project 
+My first readme
